@@ -1,11 +1,11 @@
 molecool
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/master)
+[![GitHub Actions Build Status](https://github.com/mquevill/molecool/workflows/CI/badge.svg)](https://github.com/mquevill/molecool/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/mquevill/molecool/branch/master/graph/badge.svg)](https://codecov.io/gh/mquevill/molecool/branch/master)
 
 
-analyzing and visualizing molecular coordinate files
+Python package to analyze and visualize molecular coordinate files
 
 ### Copyright
 
