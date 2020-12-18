@@ -3,8 +3,8 @@ Unit and regression test for the measure module.
 """
 
 # Import package, test suite, and other packages as needed
-import molecool
 import numpy as np
+import molecool
 
 def test_calculate_distance():
     """
