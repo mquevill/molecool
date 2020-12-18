@@ -34,6 +34,6 @@ def calculate_molecular_mass(symbols):
     """
 
     mass = 0
-    for elem in symbols:
-        mass += atomic_weights[elem]
+    for atom in symbols:
+        mass += atomic_weights[atom]
     return mass

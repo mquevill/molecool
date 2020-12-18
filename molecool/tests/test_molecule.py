@@ -4,6 +4,7 @@ Unit and regression test for the measure module.
 
 # Import package, test suite, and other packages as needed
 import pytest
+
 import molecool
 
 def test_molecular_mass():
